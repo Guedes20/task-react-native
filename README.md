@@ -37,3 +37,7 @@ Projeto desenvolvido em react-native com a finalidade de organizar as tarefas do
 
 
 ## Telas
+
+
+![visualizar_tarefas](https://user-images.githubusercontent.com/3504902/91719981-a8404100-eb6c-11ea-8edf-18da9eef568a.gif)
+

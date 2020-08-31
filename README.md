@@ -1,5 +1,6 @@
 
-### _Organize suas tarefas do dia-a-dia._
+## Sobre 
+Projeto desenvolvido em react-native com a finalidade de organizar as tarefas do dia-a-dia.
 
 ## Configuração
 - npx react-native init tasks --version 8.61.5

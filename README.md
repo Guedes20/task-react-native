@@ -8,31 +8,31 @@
 - npx react-native run-android iniciar a aplicacao com o emulador aberto
 
 ## Dependência
- "dependencies": {
+ "dependencies": {</br>
                    "@react-native-community/async-storage": "1.7.1", </br>
-                   "@react-native-community/datetimepicker": "2.1.0", 
-                   "axios": "0.19.0", 
-                   "moment": "2.24.0", 
-                   "react": "16.9.0", 
-                   "react-native": "0.61.5",
-                   "react-native-gesture-handler": "1.5.2", 
-                   "react-native-gravatar": "1.0.2", 
-                   "react-native-reanimated": "1.4.0",
-                   "react-native-screens": "1.0.0-alpha.23",
-                   "react-native-vector-icons": "6.6.0", 
-                   "react-navigation": "4.0.10", 
-                   "react-navigation-drawer": "2.3.3" 
-                   }, 
-                   "devDependencies": { 
-                   "@babel/core": "^7.7.7", 
-                   "@babel/runtime": "^7.7.7", 
-                   "@react-native-community/eslint-config": "^0.0.5", 
-                   "babel-jest": "^24.9.0", 
-                   "eslint": "^6.8.0", 
-                   "jest": "^24.9.0", 
-                   "metro-react-native-babel-preset": "^0.57.0",
-                   "react-test-renderer": "16.9.0" nc 
-                   },
+                   "@react-native-community/datetimepicker": "2.1.0", </br>
+                   "axios": "0.19.0", </br>
+                   "moment": "2.24.0", </br>
+                   "react": "16.9.0",  </br>
+                   "react-native": "0.61.5",</br>
+                   "react-native-gesture-handler": "1.5.2", </br>
+                   "react-native-gravatar": "1.0.2", </br>
+                   "react-native-reanimated": "1.4.0",</br>
+                   "react-native-screens": "1.0.0-alpha.23",</br>
+                   "react-native-vector-icons": "6.6.0", </br>
+                   "react-navigation": "4.0.10", </br>
+                   "react-navigation-drawer": "2.3.3" </br>
+                   }, </br>
+                   "devDependencies": { </br>
+                   "@babel/core": "^7.7.7", </br>
+                   "@babel/runtime": "^7.7.7", </br>
+                   "@react-native-community/eslint-config": "^0.0.5", </br>
+                   "babel-jest": "^24.9.0", </br>
+                   "eslint": "^6.8.0", </br>
+                   "jest": "^24.9.0", </br>
+                   "metro-react-native-babel-preset": "^0.57.0",</br>
+                   "react-test-renderer": "16.9.0" nc </br>
+                   },</br>
 
 
 ## Telas

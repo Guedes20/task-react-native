@@ -85,7 +85,7 @@ export default class TaskList extends Component {
 
     deleteTask = id => {
         const tasks = this.state.tasks.filter(task => task.id !== id)
-        this.setState({ tasks }, this.filterTasks)
+        this.setState({ tasks }, this.filterTasks())
     }
 
     render() {
@@ -99,7 +99,7 @@ export default class TaskList extends Component {
                 <ImageBackground source={todayImage} style={styles.background} >
                     <View style={styles.iconBar}>
                         <TouchableOpacity onPress={this.toggleFilter}>
-                            <Icon name={this.state.showDoneTasks ? 'eye-slash' : 'eye'} size={20} color={commonStyles.colors.secondary} />
+                            <Icon name={!this.state.showDoneTasks ?   'eye' : 'eye-slash'} size={20} color={commonStyles.colors.secondary} />
                         </TouchableOpacity>
                     </View>
                     <View style={styles.titleBar}>

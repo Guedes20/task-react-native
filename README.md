@@ -4,10 +4,12 @@
 ## Configuração
 - npx react-native init tasks --version 8.61.5
 - Dentro da pasta do projeto  apos ter configurado as dependências no package.jsonexecutar o comando  npm i 
+- Executar o comando para lincar as configurações react-native.config.js npx react-native link  
+- npx react-native run-android iniciar a aplicacao com o emulador aberto
 
 ## Dependência
  "dependencies": {
-                   "@react-native-community/async-storage": "1.7.1", 
+                   "@react-native-community/async-storage": "1.7.1", </br>
                    "@react-native-community/datetimepicker": "2.1.0", 
                    "axios": "0.19.0", 
                    "moment": "2.24.0", 
@@ -32,7 +34,5 @@
                    "react-test-renderer": "16.9.0" nc 
                    },
 
-- Executar o comando para lincar as configurações react-native.config.js npx react-native link  
-- npx react-native run-android iniciar a aplicacao com o emulador aberto
 
 ## Telas
